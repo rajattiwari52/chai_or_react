@@ -1,0 +1,10 @@
+// react 
+/*
+react dom = website pr kaam krna h , reat native = mobile app ke liye ye pda jata h 
+npx = node package executer
+npm = installer hota h , node 
+create-react-app = ye ek utility h(software) 
+
+jsx = JSX is a syntax extension for JavaScript 
+       used in React that allows us to write
+       HTML-like UI structure inside JavaScript. It makes React code easier to read and write, and it gets transformed into JavaScript that creates React elements.
